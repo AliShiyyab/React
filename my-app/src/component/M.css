@@ -1,0 +1,18 @@
+main div{
+    align-items: center;
+    width: 100%;
+    height: 500px;
+    border: 5px;
+    border-radius: 5px;
+    border-color: blue;
+    border-style: double;
+}
+main div h2{
+    text-align: center;
+    color: red;
+}
+main div p{
+    color: black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
